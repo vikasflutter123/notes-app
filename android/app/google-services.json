@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920522480224",
+    "project_id": "my-flutter-notes-vikas",
+    "storage_bucket": "my-flutter-notes-vikas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920522480224:android:8c1631ecd2d089934f8105",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUlB-6_9GVQ_-VrUA0OhVATzd9vG7SsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
